@@ -1,4 +1,4 @@
-# desafio-controle-gastos
+# desafio-controle-gastos 💰
 
 Esse desafio tem por objetivo validar e treinar conceitos de sql através de um sistema simples de controle de gastos utilizando sqlite
 
@@ -13,6 +13,8 @@ Esse desafio tem por objetivo validar e treinar conceitos de sql através de um 
 4. As consultas devem ficar dentro do arquivo `consultas.sql`
 
 Dica: Utilize esse site para entender como criar tabelas e pegar algumas consultas prontas com as nunancias do Sqlite [SQLite Tutorial](https://www.sqlitetutorial.net/)
+
+Dica: Crie um fork desse projeto para seu github para trabalhar e versionar seu desafio
 
 ## Funcionalidades
 
@@ -39,3 +41,6 @@ Dica: Utilize esse site para entender como criar tabelas e pegar algumas consult
 ## Tabelas
 
 // Todo
+
+
+Boa sorte e aproveite o desafio 🍀
