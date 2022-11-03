@@ -43,6 +43,7 @@ Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit sem
 ## Tabelas
 
 Utilize esse espaço para mapear as tabelas e campos que precisam ser criados
+
 Exemplo:
 
 ### usuarios
