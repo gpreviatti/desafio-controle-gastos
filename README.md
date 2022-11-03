@@ -19,13 +19,13 @@ Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit sem
 
 ## Funcionalidades
 
-* O usuário pode visualizar suas informações com `nome, email e objetivo financeiro`
+* O usuário pode visualizar suas informações com nome, email e objetivo financeiro
 * O usuário pode criar, atualizar, visualizar ou remover suas contas
-    * O usuário pode criar e atualizar a conta com `instituição financeira, nome e cor`
+    * O usuário pode criar e atualizar a conta com instituição financeira, nome e cor
 * O usuário pode criar, atualizar, visualizar ou remover suas categorias
-    * O usuário pode criar e atualizar uma categoria com `nome e cor`
+    * O usuário pode criar e atualizar uma categoria com nome e cor
 * O usuário pode criar, atualizar, visualizar ou remover suas transações
-    * O usuário pode criar ou atualizar uma transação com `descrição, valor, categoria, data de criação e a conta`
+    * O usuário pode criar ou atualizar uma transação com descrição, valor, categoria, data de criação e a conta
     * O usuário deve inserir valor negativo para despesas e positivo para receitas
 
 ## Visualizações
@@ -34,8 +34,8 @@ Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit sem
 2. O usuário pode visualizar suas contas com informação do saldo atual (soma das transações);
 3. O usuário pode visualizar suas categorias;
 4. O usuário pode visualizar suas transações com data de criação, descrição, nome da categoria, conta e valor em ordem decrecente da data de criação;
-5. O usuário pode visualizar os gastos totais por categoria, filtrando pela data de criação, ordenando por ordem alfabetica seguida do maior gasto para o menor;
-6. O usuário pode visualizar sua frequencia de gastos, somando os gastos por periodo e filtrando pela data de criação;
+5. O usuário pode visualizar total de despesas por categoria, filtrando pela data de criação, ordenando por ordem alfabetica seguida do maior gasto para o menor;
+6. O usuário pode visualizar sua frequencia despesas, somando os gastos por periodo e filtrando pela data de criação;
 7. O usuário pode visualizar o total de receitas e despesas no periodo de um ano por mês;
 8. O usuário pode visualizar o balanço mensal, ou seja, o total de receitas, total de despesas e por fim o valor de um menos o outro respectivamente.
 
