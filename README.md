@@ -9,13 +9,13 @@ Esse desafio tem por objetivo validar e treinar conceitos de sql através de um 
 3. Os scripts de dados devem ficar dentro do arquivo `dados.sql`
 4. As consultas devem ficar dentro do arquivo `consultas.sql`
 
-Dica: utiliza a extensão: [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) do visual studio code para manipular o mesmo
+**Dica:** utiliza a extensão: [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) do visual studio code para manipular o mesmo
 
-Dica: Utilize esse site para entender como criar tabelas e pegar algumas consultas prontas com as nunancias do Sqlite [SQLite Tutorial](https://www.sqlitetutorial.net/)
+**Dica:** Utilize esse site para entender como criar tabelas e pegar algumas consultas prontas com as nunancias do Sqlite [SQLite Tutorial](https://www.sqlitetutorial.net/)
 
-Dica: Crie um *fork* desse projeto para seu github para trabalhar e versionar seu desafio
+**Dica:** Crie um *fork* desse projeto para seu github para trabalhar e versionar seu desafio
 
-Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit semantico para facilitar a visualização das suas alterações no github. [Referencia sobre commits semanticos](https://github.com/iuricode/padroes-de-commits)
+**Dica:** Tente criar commits pequenos e pontuais e utilizar o padrão de commit semantico para facilitar a visualização das suas alterações no github. [Referencia sobre commits semanticos](https://github.com/iuricode/padroes-de-commits)
 
 ## Funcionalidades
 
@@ -55,4 +55,5 @@ Exemplo:
 | email | string |
 
 
-Boa sorte e aproveite o desafio 🍀
+
+*Boa sorte e aproveite o desafio 🍀*
