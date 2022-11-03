@@ -19,14 +19,14 @@ Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit sem
 
 ## Funcionalidades
 
-1. O usuário pode visualizar suas informações (Nome, email e objetivo financeiro)
-2. O usuário pode criar, atualizar, visualizar ou remover suas contas
-2.1. O usuário pode criar e atualizar a conta com instituição financeira, nome e cor
-3. O usuário pode criar, atualizar, visualizar ou remover suas categorias
-3.1. O usuário pode criar e atualizar uma categoria com nome e cor
-4. O usuário pode criar, atualizar, visualizar ou remover suas transações
-4.1. O usuário pode criar ou atualizar uma transação com descrição, valor(+/-), categoria, data de criação e a conta
-4.2. O usuário deve inserir valor negativo para despesas e positivo para receitas
+* O usuário pode visualizar suas informações (Nome, email e objetivo financeiro)
+* O usuário pode criar, atualizar, visualizar ou remover suas contas
+    * O usuário pode criar e atualizar a conta com instituição financeira, nome e cor
+* O usuário pode criar, atualizar, visualizar ou remover suas categorias
+    * O usuário pode criar e atualizar uma categoria com nome e cor
+* O usuário pode criar, atualizar, visualizar ou remover suas transações
+    * O usuário pode criar ou atualizar uma transação com descrição, valor(+/-), categoria, data de criação e a conta
+    * O usuário deve inserir valor negativo para despesas e positivo para receitas
 
 ## Visualizações
 
