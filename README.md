@@ -30,14 +30,14 @@ Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit sem
 
 ## Visualizações
 
-1. O usuário pode visualizar suas informações pessoais
-2. O usuário pode visualizar suas contas com informação do saldo atual (soma das transações)
-3. O usuário pode visualizar suas categorias
-4. O usuário pode visualizar suas transações com data de criação, descrição, nome da categoria, conta e valor em ordem decrecente da data de criação
-5. O usuário pode visualizar os gastos totais por categoria, filtrando pela data de criação
-6. O usuário pode visualizar sua frequencia de gastos, somando os gastos por dia e filtrando pela data de criação
-7. O usuário pode visualizar o total de receitas e despesas por ano somando o total por mês
-8. O usuário pode visualizar o balanço mensal, ou seja, o total de receitas, total de despesas e por fim o valor de um menos o outro respectivamente
+1. O usuário pode visualizar suas informações pessoais;
+2. O usuário pode visualizar suas contas com informação do saldo atual (soma das transações);
+3. O usuário pode visualizar suas categorias;
+4. O usuário pode visualizar suas transações com data de criação, descrição, nome da categoria, conta e valor em ordem decrecente da data de criação;
+5. O usuário pode visualizar os gastos totais por categoria, filtrando pela data de criação, ordenando por ordem alfabetica seguida do maior gasto para o menor;
+6. O usuário pode visualizar sua frequencia de gastos, somando os gastos por periodo e filtrando pela data de criação;
+7. O usuário pode visualizar o total de receitas e despesas no periodo de um ano por mês;
+8. O usuário pode visualizar o balanço mensal, ou seja, o total de receitas, total de despesas e por fim o valor de um menos o outro respectivamente.
 
 
 ## Tabelas
