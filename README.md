@@ -13,9 +13,9 @@ Esse desafio tem por objetivo validar e treinar conceitos de sql através de um 
 
 **Dica:** Utilize esse site para entender como criar tabelas e pegar algumas consultas prontas com as nunancias do Sqlite [SQLite Tutorial](https://www.sqlitetutorial.net/)
 
-**Dica:** Crie um *fork* desse projeto para seu github para trabalhar e versionar seu desafio
+**Dica:** Crie um `fork` desse projeto para seu github para trabalhar e versionar seu desafio
 
-**Dica:** Tente criar commits pequenos e pontuais e utilizar o padrão de commit semantico para facilitar a visualização das suas alterações no github. [Referencia sobre commits semanticos](https://github.com/iuricode/padroes-de-commits)
+**Dica:** Crie commits com alterações pequenas e pontuais e utilize o padrão de commit semantico para facilitar a visualização das suas alterações no github. [Referencia sobre commits semanticos](https://github.com/iuricode/padroes-de-commits)
 
 ## Funcionalidades
 
@@ -48,7 +48,7 @@ Exemplo:
 
 ### usuarios
 
-| Campo | Tipo   |
+| campo | tipo   |
 | ----- | ------ |
 | id    | int    |
 | nome  | string |
