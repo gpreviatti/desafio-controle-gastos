@@ -1,4 +1,4 @@
-# desafio-controle-gastos 💰
+# Desafio Controle de Gastos 💰
 
 Esse desafio tem por objetivo validar e treinar conceitos de sql através de um sistema simples de controle de gastos utilizando sqlite
 
