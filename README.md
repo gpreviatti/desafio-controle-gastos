@@ -34,7 +34,7 @@ Dica: Crie um fork desse projeto para seu github para trabalhar e versionar seu 
 3. O usuário pode visualizar suas categorias
 4. O usuário pode visualizar suas transações com data de criação, descrição, nome da categoria, conta e valor em ordem decrecente da data de criação
 5. O usuário pode visualizar os gastos totais por categoria, filtrando pela data de criação
-6. O usuário pode visualizar sua frequencia de gastos, somando os gastos por dia e filtranso pela data de criação
+6. O usuário pode visualizar sua frequencia de gastos, somando os gastos por dia e filtrando pela data de criação
 7. O usuário pode visualizar o total de receitas e despesas por ano somando o total por mês
 
 
