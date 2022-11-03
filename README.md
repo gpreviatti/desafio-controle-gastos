@@ -38,6 +38,7 @@ Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit sem
 5. O usuário pode visualizar os gastos totais por categoria, filtrando pela data de criação
 6. O usuário pode visualizar sua frequencia de gastos, somando os gastos por dia e filtrando pela data de criação
 7. O usuário pode visualizar o total de receitas e despesas por ano somando o total por mês
+8. O usuário pode visualizar o balanço mensal, ou seja, o total de receitas, total de despesas e por fim o valor de um menos o outro respectivamente
 
 
 ## Tabelas
