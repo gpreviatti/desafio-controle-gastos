@@ -16,6 +16,8 @@ Dica: Utilize esse site para entender como criar tabelas e pegar algumas consult
 
 Dica: Crie um fork desse projeto para seu github para trabalhar e versionar seu desafio
 
+Dica: Tente criar commits pequenos e pontuais e utilizar o padrão de commit semantico para facilitar a visualização das suas alterações no github. [Referencia sobre commits semanticos](https://github.com/iuricode/padroes-de-commits)
+
 ## Funcionalidades
 
 1. O usuário pode visualizar suas informações (Nome, email e objetivo financeiro)
