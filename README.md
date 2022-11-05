@@ -7,7 +7,8 @@ Esse desafio tem por objetivo validar e treinar conceitos de sql através de um 
 1. O banco de dados utilizado é o *Sqlite* o mesmo já foi criado no projeto é o arquivo `banco.db`;
 2. Os scripts de criação devem ficar dentro do arquivo `criacao.sql`;
 3. Os scripts de dados devem ficar dentro do arquivo `dados.sql`;
-4. As consultas devem ficar dentro do arquivo `consultas.sql`.
+4. As consultas devem ficar dentro do arquivo `consultas.sql`;
+5. As tabelas devem possuir identificadores com auto incremento, ou seja, a inclusão do identificador deve ser automatica no banco.
 
 **Dica:** utiliza a extensão: [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) do visual studio code para manipular o mesmo
 
