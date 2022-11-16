@@ -41,21 +41,4 @@ Esse desafio tem por objetivo validar e treinar conceitos de sql através de um 
 7. O usuário pode visualizar o total de receitas e despesas no periodo de um ano por mês;
 8. O usuário pode visualizar o balanço mensal, ou seja, o total de receitas, total de despesas e por fim o valor de um menos o outro respectivamente.
 
-
-## Tabelas
-
-Utilize esse espaço para mapear as tabelas e campos que precisam ser criados
-
-Exemplo:
-
-### usuarios
-
-| campo | tipo   |
-| ----- | ------ |
-| id    | int    |
-| nome  | string |
-| email | string |
-
-
-
 *Boa sorte e aproveite o desafio 🍀*
